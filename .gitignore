@@ -1,3 +1,4 @@
+
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -6,6 +7,9 @@
 *.lo
 *.o
 *.obj
+
+# log files
+*.log
 
 # Precompiled Headers
 *.gch
