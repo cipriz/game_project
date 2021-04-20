@@ -1,5 +1,7 @@
 
-Assets/
+**/Assets/**/*.uasset
+
+**/Assets/*.uasset
 
 
 
