@@ -3,6 +3,9 @@
 
 **/Assets/*.uasset
 
+!**/NewMap.umap
+!**/Menu_level.umap
+
 
 
 
