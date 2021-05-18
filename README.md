@@ -1,1 +1,1 @@
-"# game_project" 
+Main assets are missing for now.
